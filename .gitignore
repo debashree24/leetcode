@@ -1,0 +1,29 @@
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Build directory
+target/
+build/
+bin/
+
+# IDE specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+.settings/
+.project
+.classpath
+
+# Log files
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db
